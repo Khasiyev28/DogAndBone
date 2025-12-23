@@ -1,0 +1,17 @@
+C:\Users\Mahir\source\repos\Seminar\Seminar\bin\Debug\net8.0-windows\Seminar.exe
+C:\Users\Mahir\source\repos\Seminar\Seminar\bin\Debug\net8.0-windows\Seminar.deps.json
+C:\Users\Mahir\source\repos\Seminar\Seminar\bin\Debug\net8.0-windows\Seminar.runtimeconfig.json
+C:\Users\Mahir\source\repos\Seminar\Seminar\bin\Debug\net8.0-windows\Seminar.dll
+C:\Users\Mahir\source\repos\Seminar\Seminar\bin\Debug\net8.0-windows\Seminar.pdb
+C:\Users\Mahir\source\repos\Seminar\Seminar\obj\Debug\net8.0-windows\Seminar.Form1.resources
+C:\Users\Mahir\source\repos\Seminar\Seminar\obj\Debug\net8.0-windows\Seminar.Properties.Resources.resources
+C:\Users\Mahir\source\repos\Seminar\Seminar\obj\Debug\net8.0-windows\Seminar.csproj.GenerateResource.cache
+C:\Users\Mahir\source\repos\Seminar\Seminar\obj\Debug\net8.0-windows\Seminar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahir\source\repos\Seminar\Seminar\obj\Debug\net8.0-windows\Seminar.AssemblyInfoInputs.cache
+C:\Users\Mahir\source\repos\Seminar\Seminar\obj\Debug\net8.0-windows\Seminar.AssemblyInfo.cs
+C:\Users\Mahir\source\repos\Seminar\Seminar\obj\Debug\net8.0-windows\Seminar.csproj.CoreCompileInputs.cache
+C:\Users\Mahir\source\repos\Seminar\Seminar\obj\Debug\net8.0-windows\Seminar.dll
+C:\Users\Mahir\source\repos\Seminar\Seminar\obj\Debug\net8.0-windows\refint\Seminar.dll
+C:\Users\Mahir\source\repos\Seminar\Seminar\obj\Debug\net8.0-windows\Seminar.pdb
+C:\Users\Mahir\source\repos\Seminar\Seminar\obj\Debug\net8.0-windows\Seminar.genruntimeconfig.cache
+C:\Users\Mahir\source\repos\Seminar\Seminar\obj\Debug\net8.0-windows\ref\Seminar.dll
